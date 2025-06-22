@@ -1,4 +1,4 @@
-<img src="Dino_non-birthday_version.gif">
+<img src="Dino_non-birthday_version.gif" align="center">
 
 
 <!--
