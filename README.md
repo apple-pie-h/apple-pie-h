@@ -1,4 +1,7 @@
-<img src="Dino_non-birthday_version.gif" align="centre">
+
+<p align="center">
+<img src="Dino_non-birthday_version.gif">
+</p>
 
 
 <!--
