@@ -1,4 +1,4 @@
-## Hi there 👋
+![XP Game Demo](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
 
 <!--
 **apple-pie-h/apple-pie-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
