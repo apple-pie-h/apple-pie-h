@@ -3,6 +3,7 @@
 <img src="Dino_non-birthday_version.gif">
 </p>
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5324900" style='border:none;'></iframe>
 
 <!--
 **apple-pie-h/apple-pie-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
